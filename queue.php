@@ -2,10 +2,10 @@
 /** 
 *  php队列算法 
 *   
-*  Create On 2010-6-4 
-*  Author Been 
-*  QQ:281443751 
-*  Email:binbin1129@126.com 
+*  Create On 2018-05-02
+*  Author haoyongkai 
+*  QQ:704436019
+*  Email:704436019@qq.com
 **/  
 class data {  
     //数据  
